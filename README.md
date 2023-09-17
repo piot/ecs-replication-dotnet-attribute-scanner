@@ -1,0 +1,1 @@
+# ecs-replication-dotnet-attribute-scanner
